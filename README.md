@@ -1,4 +1,4 @@
-## **📁 3. Mobile Phone Price Prediction – `README.md`**
+## 📁 3. Mobile Phone Price Prediction – `README.md`
 ```markdown
 # 📱 Mobile Phone Price Prediction
 

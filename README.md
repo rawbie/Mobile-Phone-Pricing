@@ -1,4 +1,4 @@
-# 📁 3. Mobile Phone Price Prediction 
+# 📁 Mobile Phone Price Prediction 
 📱 Mobile Phone Price Prediction
 
 ## 📌 Overview
